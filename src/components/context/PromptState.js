@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import PromptContext from "./PromptContext";
 import { Configuration, OpenAIApi } from "openai";
 const PromptState = (props) => {
-  const API_KEY = "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";
+  const API_KEY = "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";
   const [prompt, setprompt] = useState([]);
   const [image, setimage] = useState([]);
   const [wait, setwait] = useState(false);
