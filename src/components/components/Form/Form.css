@@ -1,0 +1,22 @@
+.form-container{
+    margin-left: 25vh ;
+    margin-bottom: auto;
+    margin-top: 10vh;
+    width: 80%;
+    justify-content: center;
+}
+.form-container .heading{
+    font-size: 50px;
+    margin-bottom: 5px;
+    padding-top: 45px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.form-container form input{
+    text-transform: capitalize;
+    margin-top: 14vh;
+    width: 1000px;
+    justify-content: flex-start;
+}
+
